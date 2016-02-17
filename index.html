@@ -1,0 +1,28 @@
+---
+layout: default
+title: Ray Besiga
+description: I’m Ray Besiga, a product engineer and designer. I'm a Front-End User Experience Engineer at Catalpa. I co-founded <a href='http://sparkpl.ug'>Sparkplug</a>
+---
+
+<section class="intro center">
+    <p><img src="/public/images/ray2-akabbo.png" alt="Portrait of Ray Besiga" class="fullimg avatar"></p>
+    <p>I am Ray Besiga, a product engineer and designer. I am a Front-End User Experience Engineer at <a href="http://catalpa.io/" target="_blank">Catalpa</a>. I co-founded <a href="http://sparkpl.ug">Sparkplug</a>.</p>
+
+    <p><a href="https://twitter.com/raybesiga" target="_blank">Twitter</a> | <a href="https://github.com/raybesiga" target="_blank">Github</a></p>
+    <span class="divider"></span>
+</section>
+
+<div class="l-blog">
+  <div class="center">
+    {% for post in site.posts %}
+      <article class="posts__post">
+        <h2>
+          <a class="post__title" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        </h2>
+        <time class="post__date" >{{ post.date | date: "%b %-d, %Y" }}</time>
+        <p class="post__desc">{{ post.excerpt }}</p>
+      </article>
+    {% endfor %}
+  </div>
+</div>
+

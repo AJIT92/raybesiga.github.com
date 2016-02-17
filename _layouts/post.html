@@ -1,0 +1,20 @@
+---
+layout: default
+---
+    <div class="l-blog">
+      <div class="post" itemscope itemtype="http://schema.org/BlogPosting">
+        <h1 class="post__title">{{ page.title }}</h1>
+
+        <time class="post__date" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time>
+
+        <div class="post__main" itemprop="articleBody">
+            {{ content }}
+        </div>
+
+
+    <a class="tweet" href="https://twitter.com/intent/tweet?url={{ site.url }}{{ page.url }}&amp;&text={{ page.title }}&via=raybesiga">
+      {% include icon-twitter.svg %}
+        Tweet
+    </a>
+  </div>
+  </div>

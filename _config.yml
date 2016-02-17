@@ -1,0 +1,21 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: Ray Besiga
+email: raybesiga@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  I’m Ray Besiga, a product engineer and designer. I'm a Front-End User Experience Engineer at Catalpa. I co-founded <a href='http://sparkpl.ug'>Sparkplug</a>.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://raybesiga.com" # the base hostname & protocol for your site
+twitter_username: raybesiga
+github_username:  raybesiga
+
+# Build settings
+markdown: kramdown
+
+permalink:        /blog/:year/:month/:day/:title.html
