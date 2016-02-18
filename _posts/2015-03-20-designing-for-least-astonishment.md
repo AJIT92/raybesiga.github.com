@@ -4,6 +4,7 @@ title: "Designing for least astonishment"
 description: Designing for least astonishment, or freak out your users the least.
 category: writing
 tags: [Design, UX, Human Centered Design]
+excerpt: The law or rule of freaking out your users the least.
 ---
 
 <img src="https://papashabani.files.wordpress.com/2014/08/img_0634.jpg?w=774" width="710" alt="Papa Shabani's Beatbox Dancer">
