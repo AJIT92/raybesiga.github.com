@@ -9,7 +9,7 @@
 title: Ray Besiga
 email: raybesiga@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  I’m Ray Besiga, a product engineer and designer. I'm a Front-End User Experience Engineer at Catalpa. I co-founded <a href='http://sparkpl.ug'>Sparkplug</a>.
+  I’m Ray Besiga, a product engineer and designer. I'm a Front-End User Experience Engineer at Catalpa. I co-founded Sparkplug.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://raybesiga.com" # the base hostname & protocol for your site
 twitter_username: raybesiga

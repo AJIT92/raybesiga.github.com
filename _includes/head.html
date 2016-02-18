@@ -10,14 +10,14 @@
 
   <meta property="og:title" content="{{ page.title }}">
   <meta property="og:url" content="{{ site.url }}{{ page.url }}">
-  <meta property="og:description" content="{% if page.description %}{{ page.description }}{% else %}{{ page.excerpt }}{% endif %}">
+  <meta property="og:description" content="{% if page.description %}{{ page.description | truncate: 160 }}{% else %}{{ page.excerpt }}{% endif %}">
   <meta property="og:site_name" content="Ray Besiga">
 
 
 
 
   <title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
-  <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+  <meta name="description" content="{% if page.description %}{{ page.description | truncate: 160 }}{% else %}{{ page.excerpt }}{% endif %}"">
   <meta name="language" content="english">
 
   <link rel="shortcut icon" href="/public/favicon.ico">
