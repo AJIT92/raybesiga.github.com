@@ -3,13 +3,7 @@
 
 # TEAM
 
-    <Ray Besiga> -- <Designer and Developer> -- <@raybesiga>
-
-# THANKS
-
-    <Github>
-
-# TECHNOLOGY COLOPHON
-
-    CSS3, HTML5
-    Modernizr, Normalize.css
+    Chef: Ray Besiga
+    Contact: raybesiga [at] gmail.com
+    Twitter: @raybesiga
+    From: Kampala, Uganda
