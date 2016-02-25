@@ -444,69 +444,6 @@ Then edit the `index.html` file:
 {% raw %}{% endblock %}{% endraw %}
 {% endhighlight %}
 
-
-{% highlight jinja %}
-{% raw %}{% extends "base.html" %}{% endraw %}
-
-{% raw %}{% block title %} Your Github Yokogao {% endblock %}{% endraw %}
-
-{% raw %}{% block content %}{% endraw %}
-<div class="columns centered">
-    <div class="one-third column centered">
-        <h3>Basic Django app with the Github API</h3>
-    </div>
-</div>
-<div class="columns">
-  <div class="one-third column centered">
-    <img class="avatar" src="{{ avatar_url }}" width="300" height="300" style="border-radius: 50%;">
-  </div>
-  <div class="one-third column centered">
-    <p><br></p>
-  </div>
-  <div class="one-third column centered">
-        <nav class="menu">
-            <a class="menu-item" href="#">
-            <span class="octicon octicon-person"></span>
-            {{ name }}
-          </a>
-          <a class="menu-item" href="#">
-            <span class="octicon octicon-location"></span>
-            {{ location }}
-          </a>
-          <a class="menu-item" href="#">
-            <span class="octicon octicon-list-ordered"></span>
-            <span class="counter">{{ public_repos }}</span>
-            Public Repos
-          </a>
-          <a class="menu-item" href="#">
-            <span class="octicon octicon-bookmark" ></span>
-            <span class="counter">{{ followers }}</span>
-            Followers
-          </a>
-          <a class="menu-item" href="#">
-            <span class="octicon octicon-eye"></span>
-            <span class="counter">{{ following }}</span>
-            Following
-          </a>
-          <a class="menu-item" href="#">
-            <span class="octicon octicon-calendar"></span>
-            Member for {{ created_at|timesince }}
-          </a>
-          <a class="menu-item " href="{{ blog }}" target="_blank">
-            <span class="octicon octicon-globe"></span>
-            Website: {{ blog }}
-          </a>
-        </nav>
-    </div>
-</div>
-<div clas="columns">
-    <div class="one-third column centered">
-        <h4>Built with <span class="octicon octicon-heart" ></span> using the Github API and Primer</h4>
-    </div>
-</div>
-{% raw %}{% endblock %}{% endraw %}
-{% endhighlight %}
-
 Now if you run your server, you should have the browser showing your yokogao on the index page. 
 
 ### Next steps
