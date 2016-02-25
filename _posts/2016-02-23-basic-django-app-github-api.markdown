@@ -4,6 +4,7 @@ title: "A basic Django app with the Github API"
 category: Django
 tags: [Django, Github]
 excerpt: A basic Django app with the Github API
+image: /public/images/Github_Yokogao.png
 ---
 
 ## Let's build a basic Django app with the Github API

@@ -12,11 +12,27 @@ description: > # this means to ignore newlines until "baseurl:"
   I’m Ray Besiga, a product engineer and designer. I'm a Front-End User Experience Engineer at Catalpa. I co-founded Sparkplug.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://raybesiga.com" # the base hostname & protocol for your site
-twitter_username: raybesiga
-github_username:  raybesiga
+twitter:
+  username: raybesiga
+github:
+  username: raybesiga
+
+social:
+  type: person
+  name: Ray Besiga
+  links:
+    instagram: https://instagram.com/raybesiga
+    twitter: https://www.twitter.com/raybesiga
+
+author:
+  twitter: raybesiga
+  picture: /public/images/ray2-akabbo.png
+
 
 # Build settings
 markdown: kramdown
 
 permalink:        /blog/:year/:month/:day/:title.html
 highlighter: pygments
+gems:
+  - jekyll-seo-tag

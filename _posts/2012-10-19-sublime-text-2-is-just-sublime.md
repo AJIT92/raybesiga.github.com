@@ -6,6 +6,7 @@ category: development
 comments: true
 tags: [sublime, text editor, code editor]
 excerpt: One day I will write an ode to Sublime Text 2.
+image: /public/images/gear.svg
 ---
 ![Sublime Text](/public/images/gear.svg)
 

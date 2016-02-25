@@ -5,6 +5,7 @@ description: A peek into the fashion world at Pitti Immagine in Florence, Italy.
 category: fashion
 tags: [fashion, travel, italy, pitti]
 excerpt: Fashion festival folly in Firenze
+image: /public/images/pitti_immagine_1.jpg
 ---
 
 ![Pitti Immagine Uomo 86](/public/images/pitti_immagine_1.jpg)

@@ -4,6 +4,7 @@ title: "Starkey Hearing Foundation Gala Weekend"
 category: work
 tags: [Starkey Hearing Foundation, SHF, work, travel, minneapolis, Starkey Gala]
 excerpt: Celebrating success and a beautiful partnership at the Starkey Gala
+image: /public/images/gala_tani_bill.jpg
 ---
 
 ![With Tani and Bill](/public/images/gala_tani_bill.jpg "Bill and Tani Austin, Founders of Starkey Hearing Foundation")

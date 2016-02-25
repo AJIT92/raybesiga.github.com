@@ -5,6 +5,7 @@ excerpt: "Key protagonists: iCloud and the Uganda Police."
 category: Recovery
 comments: true
 tags: [iPhone, iCloud, Polo, Maps]
+image: /public/images/im_on_a_horse.jpeg
 ---
 <div class="featured-image">
 <figure>

@@ -4,6 +4,7 @@ title: "The fun side to Transform Africa 2015"
 category: conference
 tags: [Transform Africa]
 excerpt: Art, Craft and Fashion at the Transform Africa conference
+image: /public/images/TransformArt.jpg
 ---
 
 ![Olivier Kwitonda's Boy with a Bike ](/public/images/TransformArt.jpg "Boy with a bike. Olivier Kwitonda ")

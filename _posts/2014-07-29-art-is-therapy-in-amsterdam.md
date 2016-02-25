@@ -5,6 +5,7 @@ description: Art and culture indulgence while in Amsterdam.
 category: travel
 tags: [art, travel, amsterdam, therapy, stedelijk, rijksmuseum]
 excerpt: Art can be a guide to life - Alain De Botton
+image: /public/images/stedelijk_5.jpg
 ---
 ![Amsterdam](/public/images/amsterdam_1.jpg)
 

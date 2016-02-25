@@ -5,9 +5,10 @@ description: Designing for least astonishment, or freak out your users the least
 category: writing
 tags: [Design, UX, Human Centered Design]
 excerpt: The law or rule of freaking out your users the least.
+image: /public/images/papa_shabani_beatbox.jpg
 ---
 
-<img src="https://papashabani.files.wordpress.com/2014/08/img_0634.jpg?w=774" width="710" alt="Papa Shabani's Beatbox Dancer">
+![Papa Shabani's The Beat Boxer](/public/images/papa_shabani_beatbox.jpg "Papa Shabani's The Beat Boxer")
 
 Only recently, I came across a Wikipedia page talking about "The Principle of Least Astonishment". I was quite intrigued as to what it alluded and so decided to explore the tenets of it. We shall hence forth refer to it as [POLA](http://en.wikipedia.org/wiki/Principle_of_least_astonishment). POLA applies to user interface and software design, from the ergonomics standpoint i.e. the law or rule of freaking out your users the least.
 

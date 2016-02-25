@@ -4,6 +4,7 @@ title: "Connected East Africa Summit 2015"
 category: conference
 tags: [ConnectedEA, NTFIII, East Africa]
 excerpt: NTFIII project at the Connected East Africa conference
+image: /public/images/ntf_3_at_connectedea.jpg
 ---
 
 ![NTF III Project Representatives and Companies at ConnectedEA 2015](/public/images/ntf_3_at_connectedea.jpg "NTF III Project Representatives and Companies at ConnectedEA 2015")

@@ -4,6 +4,7 @@ title: "Technology and The Sharing Economy"
 category: talks
 tags: [TEDx Kampala, SHF, work, travel, minneapolis, Starkey Gala]
 excerpt: My TEDx Kampala talk about The Sharing Economy
+image: /public/images/tedx_kampala.jpg
 ---
 
 ![Raymond Besiga speaking at TEDx Kampala](/public/images/tedx_kampala.jpg "Raymond Besiga speaking at TEDx Kampala 2015")

@@ -6,6 +6,7 @@ category: global health, public health
 comments: true
 tags: [GHC, Public Health, HIV/AIDS]
 excerpt: A belated World AIDS Day message and why you should care. 
+image: /public/images/scavenger_hunt.jpg
 ---
 ![Global Health Corps](/public/images/scavenger_hunt.jpg)
 

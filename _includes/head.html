@@ -8,24 +8,25 @@
   <meta name="author" content="Ray Besiga">
   <meta name="google-site-verification" content="hCqw44bSMvFzmWy2huAlYHbMHKdIkdvm8aiOR3VwMAo" />
 
+  <meta property="og:author" content="Ray Besiga">
   <meta property="og:title" content="{{ page.title }}">
   <meta property="og:url" content="{{ site.url }}{{ page.url }}">
   <meta property="og:description" content="{% if page.description %}{{ page.description | truncate: 160 }}{% else %}{{ page.excerpt }}{% endif %}">
   <meta property="og:site_name" content="Ray Besiga">
-  <meta property="og:image" content="{{ site.url }}/public/images/ray2-akabbo.png">
+  <meta property="og:image" content="{{ site.url }}{{ page.image }}">
 
   <!-- Twitter Tags -->
     <meta name="twitter:card" content="summary">
-    <meta name="twitter:site" content="@raybesiga">
+    <meta name="twitter:site" content="{{ site.url }}{{ page.url }}">
     <meta name="twitter:title" content="{{ page.title }}">
     <meta name="twitter:description" content="{% if page.description %}{{ page.description | truncate: 160 }}{% else %}{{ page.excerpt }}{% endif %}">
-    <!-- <meta name="twitter:image" content="https://foreignpolicymag.files.wordpress.com/2016/02/gettyimages-510415398-crop.jpg"> -->
+    <meta name="twitter:image" content="{{ site.url }}{{ page.image }}">
     <meta property="twitter:domain" value="raybesiga.com"/>
 
 
 
   <title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
-  <meta name="description" content="{% if page.description %}{{ page.description | truncate: 160 }}{% else %}{{ page.excerpt }}{% endif %}"">
+  <meta name="description" content="{% if page.description %}{{ page.description | truncate: 160 }}{% else %}{{ page.excerpt }}{% endif %}">
   <meta name="language" content="english">
 
   <link rel="shortcut icon" href="/public/favicon.ico">
@@ -35,4 +36,5 @@
   <link rel="stylesheet" href="{{ "/css/syntax.css" | prepend: site.baseurl }}">
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }} Feed" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}">
+  {% seo %}
 </head>
