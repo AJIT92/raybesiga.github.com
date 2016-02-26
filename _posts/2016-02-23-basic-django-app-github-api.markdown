@@ -375,7 +375,13 @@ $ cd yokogao/templates/yokogao
 $ touch index.html
 {% endhighlight %}
 
-Before we can show data in the `index.html` file, we need to get the context data within the views file. Let is make those changes to our `yokogao/views.py` file.
+Before we can show data in the `index.html` file, we need to get the context data within the views file. We are going to use the `dateutil` module as it provides powerful extensions to the standard datetime module, available in Python. We shall need it to parse the time string returned for `created_at` into a datetime object. To install dateutil, use pip:
+
+{% highlight bash %}
+$ pip install python-dateutil
+{% endhighlight %}
+
+And make changes to our `yokogao/views.py` file.
 
 {% highlight python %}
 import dateutil.parser
