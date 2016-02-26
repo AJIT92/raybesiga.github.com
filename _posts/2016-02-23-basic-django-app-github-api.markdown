@@ -453,4 +453,4 @@ Then edit the `index.html` file:
 Now if you run your server, you should have the browser showing your yokogao on the index page. 
 
 ### Next steps
-In the next tutorial, we shall add a form to post any  Github user's username and return similar informaton. We may also start to use an asynchronous REST API to see what more we are capable of. Thanks for taking the time to read and follow through with this. And many thanks to my colleague [Peter Coward](https://github.com/petecoward) for reading through and refactoring my code so it would be palatable. Until next time.
+In the next tutorial, we shall add a form to post any  Github username and return similar informaton, explore options with an asynchronous REST API, and host our app on Heroku. Thanks for taking the time to read and follow through with this. And many thanks to my colleague [Peter Coward](https://github.com/petecoward) for reading through and refactoring my code so it would be palatable. Until next time.
