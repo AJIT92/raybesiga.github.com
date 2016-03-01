@@ -26,6 +26,6 @@ author:
 markdown: kramdown
 
 permalink:        /blog/:year/:month/:day/:title.html
-highlighter: pygments
+highlighter: rouge
 gems:
   - jekyll-seo-tag
