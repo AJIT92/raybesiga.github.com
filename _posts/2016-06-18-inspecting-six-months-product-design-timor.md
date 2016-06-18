@@ -4,7 +4,7 @@ title: "Introspection on my product design experience in Timor Leste"
 category: Design
 tags: [Product, Design]
 excerpt: Takeaways from my product design experiece thus far 
-image: /public/images/Github_Yokogao.png
+image: /public/images/liquica_training.jpg
 ---
 
 
