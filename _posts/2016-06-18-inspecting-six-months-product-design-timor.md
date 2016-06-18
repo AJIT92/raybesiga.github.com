@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Introspection on my product design experience in Timor Leste"
+title: "Introspection on my product design experience in Timor-Leste"
 category: Design
 tags: [Product, Design]
 excerpt: Takeaways from my product design experiece thus far 
@@ -8,7 +8,7 @@ image: /public/images/liquica_training.jpg
 ---
 
 
-Since joining Catalpa International in November 2015, I have had the wonderful opportunity to live and work in the young and beautiful Timor Leste. From the get-go, I have been involved in the design and development of new and existing products in the reproductive health and water and sanitation spaces. Building appropriate technologies is fun. Below is a an unordered list of takeaways that have informed my product design process or come about as a result of said process. Have a gander and please share feedback.
+Since joining Catalpa International in November 2015, I have had the wonderful opportunity to live and work in the young and beautiful Timor-Leste. From the get-go, I have been involved in the design and development of new and existing products in the Maternal & Child Health, and Water and Sanitation spaces. Building appropriate technologies is fun. Below is a an unordered list of takeaways that have informed my product design process or come about as a result of said process. Have a gander and please share feedback.
 
 ![User training and research in Liquica ](/public/images/liquica_training.jpg "User training and research in Liquica")
 User training and research with Liga Inan health workers in Liquica
