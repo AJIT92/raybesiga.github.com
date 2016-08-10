@@ -52,3 +52,17 @@ a:visited h4 {
 .well p{
   margin-top: 30px;
 }
+.port {
+  margin-top: -20px;
+}
+p.post__desc.left{
+  text-align: justify !important;
+}
+.posts__post ul {
+    font-size: 18px;
+    line-height: 24px;
+    text-align: left;
+}
+.posts__post ul {
+    font-family: 'Walsh',sans-serif;
+}
