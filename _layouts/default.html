@@ -16,6 +16,22 @@
 
       {% include footer.html %}
     </main>
+
+    <link rel="stylesheet" href="{{ "/css/style.min.css" | prepend: site.baseurl }}">
+    <script src={{ "/js/animate.min.js" | prepend: site.baseurl }}></script>
+    <script type="text/javascript">
+      animate({
+        el: "img.fullimg.avatar:hover",
+        scale: 1.1,
+        easing: "easeOutBounce 700"
+      });
+      animate({
+        el: ".item:hover",
+        scale: 1.1,
+        easing: "easeOutBounce 700"
+      });
+    </script>
+
   
     <script>
       (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
