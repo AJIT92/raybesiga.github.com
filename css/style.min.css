@@ -32,9 +32,9 @@ blockquote p {
     padding: 15px 25px;
     min-height: 20px;
 }
-.product {
-    transition: .4s ease-in-out 0s;
-}
+.product{transition:.4s ease-in-out 0s}.product:hover{border-color:#C74B43;transition:50ms ease-in-out 0s}
+a.product:active,a.product:focus,a.product:hover{color:#C74B43!important}
+
 a:visited h4 {
     color: #b3b3b3;
 }
