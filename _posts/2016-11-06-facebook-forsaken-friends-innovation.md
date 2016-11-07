@@ -4,7 +4,7 @@ title: "Why has Facebook forsaken Friends?"
 category: Facebook
 tags: [Product, Design, Facebook, Friends]
 excerpt: Why is Facebook not innovating in the "Friends" section?
-image: /public/images/ijen_crater_side.jpg
+image: /public/images/ijen_crater_side_small.jpg
 ---
 
 ![Why has Facebook forsaken Friends?](/public/images/ijen_crater_side_small.jpg)
