@@ -9,7 +9,7 @@ image: /public/images/ijen_crater_side.jpg
 
 ![Why has Facebook forsaken Friends?](/public/images/ijen_crater_side_small.jpg)
 
-Many of us -have a perverse fascination with- love Facebook. I love Facebook and have seen it evolve year after year right beneath my fingertips.  It has been a most practical way to stay in the loop with one’s extended social graph outside of family and close friends.
+Many of us <del>have a perverse fascination with</del> love Facebook. I love Facebook and have seen it evolve year after year right beneath my fingertips.  It has been a most practical way to stay in the loop with one’s extended social graph outside of family and close friends.
 
 Many features have been enhanced but my recent travels have revealed to me that the most important feature, “Friends”, has not changed much. No idea why this is the case but I will go ahead and point out the pain points I have encountered:
 
