@@ -24,6 +24,6 @@ Cities authorities and governments will also enjoy this in two ways.
 
 > Somewhere we must come to see that social progress never rolls in on the wheels of inevitability. It comes through the tireless efforts and the persistent work of dedicated Individuals. And without this hard work time itself becomes an ally of the primitive forces of social stagnation. And so we must help time, and we must realize that the time is always right to do right.
 
-We are taking on a hard problem. We think the time is right now. As such, we invite you to join us on this journey to build a product that will use dialogue for collective action and accountability for better social service delivery. You can [sign up for early access](http://urb.sparkpl.ug) to be notified when we launch Urb in the Play Store.
+We are taking on a hard problem. We think the time is right now. As such, we invite you to join us on this journey to build a product that will use dialogue for collective action and accountability. The ultimate goal is better social service delivery. You can [sign up for early access](http://urb.sparkpl.ug) to be notified when we launch Urb in the Play Store.
 
 
