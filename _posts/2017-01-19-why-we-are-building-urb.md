@@ -4,7 +4,7 @@ title: "Why we are building Urb"
 category: App
 tags: [Urb, Apps, Citizen Engagement]
 excerpt: This is why we are building Urb
-image: /public/images/man-person-village-house.jpg
+image: /public/images/hand.png
 ---
 
 ![Why we are building Urb](/public/images/hand.png)
