@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "Join the conversation about the Kampala tech scene"
+title: "Join the Kampala tech scene conversation"
 category: Chat
 tags: [Kampala, Kampala Tech Scene, Public Chat]
 excerpt: Time to connect and engage
 image: /public/images/slack.png
 ---
 
-![Let’s have a conversation about tech in Kampala](/public/images/slack.png)
+![Join the Kampala tech scene conversation](/public/images/slack.png)
 
 About 45 days ago, my colleague Moses and I put out our first consumer facing mobile app in public beta. The app, [Urb](http://urb.sparkpl.ug), is a meant to stimulate conversation about social issues and pain points, as well as enable public service providers respond to this issues in a timely manner.
 
@@ -17,6 +17,6 @@ The most immediate observation from this particular excursion was how eager just
 
 As you should have inferred by now, I would love to share this wonderful network. This is why I have setup a public chat called “Tech in Kampala”. The goal is to connect creative entrepreneurs, startups, investors, design agencies, internet marketers & freelancers - all the main movers, shakers and players.
 
-![Join the conversation about tech in Kampala](/public/images/techinkampala.png)
+![Join the Kampala tech scene conversation](/public/images/techinkampala.png)
 
 Come join the conversation [here](https://techinkampala.herokuapp.com/). Cannot wait to meet you therein.
