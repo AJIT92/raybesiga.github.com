@@ -11,6 +11,7 @@
   <meta property="og:author" content="Ray Besiga">
   <meta property="og:title" content="{{ page.title }}">
   <meta property="og:url" content="{{ site.url }}{{ page.url }}">
+  <meta property="og:type" content="{{ page.type }}">
   <meta property="og:description" content="{% if page.description %}{{ page.description | truncate: 160 }}{% else %}{{ page.excerpt }}{% endif %}">
   <meta property="og:site_name" content="Ray Besiga">
   <meta property="og:image" content="{{ site.url }}{{ page.image }}">
@@ -29,7 +30,7 @@
   <meta name="description" content="{% if page.description %}{{ page.description | truncate: 160 }}{% else %}{{ page.excerpt }}{% endif %}">
   <meta name="language" content="english">
 
-  
+
 
   <link rel="stylesheet" href="{{ "/css/style.min.css" | prepend: site.baseurl }}">
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">

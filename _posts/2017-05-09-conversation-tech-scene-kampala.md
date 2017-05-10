@@ -3,8 +3,9 @@ layout: post
 title: "Join the Kampala tech scene conversation"
 category: Chat
 tags: [Kampala, Kampala Tech Scene, Public Chat]
-excerpt: Time to connect and engage
+excerpt: Time to connect and engage. Join the Kampala tech scene conversation.
 image: /public/images/slack.png
+type: "article"
 ---
 
 ![Join the Kampala tech scene conversation](/public/images/slack.png)
