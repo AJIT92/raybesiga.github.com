@@ -12,7 +12,7 @@ type: "article"
 
 About 45 days ago, my colleague Moses and I put out our first consumer facing mobile app in public beta. The app, [Urb](http://urb.sparkpl.ug), is a meant to stimulate conversation about social issues and pain points, as well as enable public service providers respond to this issues in a timely manner.
 
-Building an app is a lot of hard work, but gettiing people to use it in a way that creates sustained value for them is doubly hard. As such, I went about talking to friends and players who have been in the trences of user acquisition.
+Building an app is a lot of hard work, but getting people to use it in a way that creates sustained value for them is doubly hard. As such, I went about talking to friends and players who have been in the trences of user acquisition.
 
 The most immediate observation from this particular excursion was how eager just about any one i asked was willing to help. Hard questions were countered with pointed advice and recommendations for actionable steps going forward.
 
