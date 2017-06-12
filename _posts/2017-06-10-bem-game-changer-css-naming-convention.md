@@ -10,7 +10,7 @@ type: "article"
 
 
 
-Earlier today while doing research into how best to improve my CSS workflow, I came across BEM. BEM -- Block Element Modifier is a methodology that helps to create reusable components and code sharing in front development. What this actually means is that it provides a new methodology to reduce the CSS footprint in a codebase while improving cooperation among developers.
+Earlier today while doing research into how best to improve my CSS workflow, I came across [BEM](http://getbem.com/). BEM -- Block Element Modifier is a methodology that helps to create reusable components and code sharing in front development. What this actually means is that it provides a new methodology to reduce the CSS footprint in a codebase while improving cooperation among developers.
 
 > There are only two hard problems in Computer Science: cache invalidation and naming things — Phil Karlton
 
@@ -97,7 +97,7 @@ For the CSS, all we have to do is add the necessary attributes for the happy mod
 }
 ```
 
-And now we have our new button alongside the others. I hope you enjoyed learning this as much as I did.
+And now we have our new button alongside the others. We managed to keep our CSS clean and legible while only adding an class to the HTML. I hope you enjoyed learning this as much as I did.
 
 
 
